@@ -1,2 +1,4 @@
-# tool-js
+Tool by Javascript
+==================
+
 Collection of useful tools based on Javascript.
